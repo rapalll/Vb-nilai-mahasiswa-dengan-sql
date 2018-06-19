@@ -1,0 +1,9 @@
+C:\Users\rapal\documents\visual studio 2010\Projects\DataMahasiswa\DataMahasiswa\bin\Debug\DataMahasiswa.exe
+C:\Users\rapal\documents\visual studio 2010\Projects\DataMahasiswa\DataMahasiswa\bin\Debug\DataMahasiswa.pdb
+C:\Users\rapal\documents\visual studio 2010\Projects\DataMahasiswa\DataMahasiswa\bin\Debug\DataMahasiswa.xml
+C:\Users\rapal\documents\visual studio 2010\Projects\DataMahasiswa\DataMahasiswa\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\rapal\documents\visual studio 2010\Projects\DataMahasiswa\DataMahasiswa\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\rapal\documents\visual studio 2010\Projects\DataMahasiswa\DataMahasiswa\obj\x86\Debug\DataMahasiswa.vbproj.GenerateResource.Cache
+C:\Users\rapal\documents\visual studio 2010\Projects\DataMahasiswa\DataMahasiswa\obj\x86\Debug\DataMahasiswa.exe
+C:\Users\rapal\documents\visual studio 2010\Projects\DataMahasiswa\DataMahasiswa\obj\x86\Debug\DataMahasiswa.xml
+C:\Users\rapal\documents\visual studio 2010\Projects\DataMahasiswa\DataMahasiswa\obj\x86\Debug\DataMahasiswa.pdb
